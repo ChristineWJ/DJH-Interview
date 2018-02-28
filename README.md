@@ -7,5 +7,5 @@
 ----
 ### 每日小段子
 ----
-- 1.[mean normalization ]()均值归一化，目的是为了梯度下降(Gradient Descent)的更快！
+- 1.[mean normalization ](#)均值归一化，目的是为了梯度下降(Gradient Descent)的更快！
 
